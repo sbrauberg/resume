@@ -1,0 +1,127 @@
+Stephan Brauberg
+SDET II
+
+Lighthouse Point, FL
+(717) 538-0210
+
+As a proven Software Development Engineer in Test with over 8 years of experience, my expertise spans the full spectrum of Manual, Automation, API, Web Services, and Web-based applications. 
+My mastery of tools like Selenium WebDriver, JUnit, REST Assured Library, and Cucumber allows me to skillfully conduct Black Box, Functional, Regression, and Smoke Testing. 
+Well-versed in the SDLC and STLC, I am an agile practitioner, often praised for my efficient bug tracking and resolution. 
+My exceptional communication, organization skills, and unwavering commitment to quality shine through, whether I'm writing SQL queries, managing framework dependencies, or ensuring the reliability of a website's components using data-driven testing.
+
+PERSONAL INFORMATION
+  Address: , Lighthouse Point, FL, 
+  Nationality: US Citizen
+  Driving License: 
+  Hobbies: 
+
+SOCIAL PROFILES
+  * GitHub: https://github.com/sbrauberg
+  * LinkedIn: somewebsite
+
+SKILLS
+  AWS Cloud Services
+  Java
+  Selenium WebDriver
+  TestNG | JUnit
+  JMeter | Postman | cURL
+  Cucumber
+  Jenkins
+  MySQL
+  Oracle VM VirtualBox
+  Protocol Buffers
+  Web-based Applications
+  Security Testing
+  Git | GitHub | GitLab
+  Windows | macOS | Ubuntu
+  Backend Testing
+  Smoke Testing | Regression Testing | BVT
+  Debugging | Bug tracking
+  Bash
+  Linux CLI
+
+WORK EXPERIENCE
+  * October 2021 – June 2023
+    Software Development Engineer in Test II (SDET II) at Airbiquity, 
+      
+  Utilized Java and Selenium for the development of robust automated testing frameworks, employing TestNG for test management and execution.
+  Performed comprehensive regression, smoke, and Build Verification Tests (BVT) across a variety of applications, ensuring software reliability and performance.
+  Conducted knowledge transfer sessions to team members, enhancing overall team competency in testing methodologies and best practices.
+  Created a robust BVT JMeter Test Plan for existing APIs from scratch, enhancing the performance testing strategy.
+  Executed various server interactions using Linux command line and customized AWS commands, improving efficiency in server operations.
+  Participated in client testing using Oracle VM VirtualBox on Ubuntu and UTM on Ubuntu, ensuring cross-platform compatibility and performance.
+  Conducted Security Testing, including generating and parsing Certificates and utilizing .pem and .pkcs12 files during API testing on Postman and JMeter.
+  Managed various AWS services including S3 bucket, Redshift, EC2, CodeBuild, CodeCommit, Cognito, and SES (Simple Email Service), ensuring optimized cloud operations.
+  Monitored services using AWS CloudWatch Alarms, providing active issue detection and resolution.
+  Participated in testing new environments and other teams' BVT, Medium Regression, and Full Regression, contributing to overall product quality.
+  Interacted with MySQL DB using DataGrip and instance command line through Session Manager, ensuring reliable database operations.
+  Took on the responsibility of manual deployments from DEV to TEST environments and from TEST to PROD environments during the release, ensuring smooth and reliable software releases.
+  Developed a Protocol Buffers project using Java as the programming language, demonstrating strong programming capabilities.
+
+
+  * September 2019 – September 2021
+    Software Development Engineer in Test at Coyote Logistics, 
+      
+  Provided technical guidance to junior-level Test Engineers to assist Test Automation.
+  Experienced in performing Behavior Driven Development by using Cucumber tool and writing Scenarios in Gherkin language.
+  Executed Test Cases and logged defects in Jira, developed Test Defect reports, and escalated issues using Jira Xray.
+  Performed Script execution with Core Java by applying OOP concepts, Collections, Strings, Exception handling, etc. Implemented Page Object Model design pattern in BDD framework utilizing Java, Cucumber-Java, Cucumber-JUnit, and Selenium WebDriver.
+  Worked on formulating Test Cases, Test Scenarios, Test Approach based on User Requirements and System Requirements.
+  Designed and executed Test Cases for new modules of the application which are built on Web-based applications.
+  Developed Positive and Negative Scenarios written in Gherkin language, Scenario Outlines, Features, and Step Definitions, and generated the Cucumber reports.
+  Used runner classes in Cucumber to generate step definition and used tags to run different kinds of test suites like Smoke and Regression.
+  Participated in creating a framework from scratch, that supports Data Driven testing using Apache POI, Scenario Outline, Excel, and CSV files.
+  Executed API testing using GET, POST, PUT, PATCH, and DELETE methods.
+  Performed Cross Browser and Parallel Testing on Chrome, Firefox, and Safari using JUnit and Maven on Selenium Grid.
+  Participated in pushing the Automated Test code into CI (Continuous Integration) and monitored the Test execution in Jenkins once the code was pushed into CI.
+  Used Jenkins to execute Smoke and Regression tests.
+  Utilized Git version control tool, and GitHub as a remote repository.
+  Experience in setting up and launching AWS EC2 Server Virtual Machine.
+  Performed in writing SQL queries to extract data from various source tables to perform Oracle Database Testing using SQL Developer and JDBC library.
+  Performed Back-End Testing of applications in different layers of API using Postman &amp; REST Assured Library.
+  Involved in Grooming meetings, Sprint Planning meetings, Daily Standup meetings, Demo meetings, and Retro meetings as a part of Agile/Scrum methodology.
+Shared Daily Status Reports with all the team members, Test Lead, and Managers.
+
+
+  * October 2017 – August 2019
+    Software Development Engineer in Test at Allstate, 
+      
+  Utilized Apache POI jar file to read test data from the Excel spreadsheets.
+  Performed Page Object Model Design Pattern Automation Testing framework utilizing Java, JUnit, and Selenium WebDriver.
+  Executed bug reporting and bug tracking using Jira, and actively interacted with the development team to fix crucial bugs.
+  Provided efficient locators strategy like XPath and CSS selector to run WebDriver Script in stable condition.
+  Performed Database Testing using SQL Queries with SQL Server and MySQL.
+  Handled Selenium Synchronization problems using Explicit &amp; Implicit waits during regression testing.
+  Experience in writing complex XPath using the following, preceding, and using functions like contains and not contains. Performed Data Driven Testing using Selenium WebDriver, TestNG, and JDBC which reads data from data sources.
+  Utilized Git version control tool, and GitHub as a remote repository. 
+  Prepared and analyzed Test Cases for Positive and Negative Test Scenarios as required in the User Stories.
+  Followed Hybrid Agile/Waterfall methodology by implementing planning, design, and requirements definition in Waterfall, and development and testing using Agile/Scrum.
+
+
+  * June 2015 – October 2017
+    Manual Tester at Alliant Credit Union, 
+      
+  Writing and executing Test Cases to detect usability and performance issues.
+  Analysis of requirements, and preparing a query list based on those requirements.
+  Conducting exploratory testing – simultaneous Test design and execution.
+  Verification of multi-device and cross-platform consistency (software works on different devices and browsers).
+  Involved in the testing phase of the Software Development Life Cycle using Waterfall Methodology.
+  Creating detailed reports and listing improvements.
+  Participated in Sprint Planning Meetings and provided feedback to the testing team.
+  Interacted with Developers and Business Analysts to perform various types of testing throughout Software Testing Life Cycle (STLC) and Bug Life Cycle (BLC).
+  Participated in bug review meetings on behalf of the QA team. 
+  Analyzed and validated test results to ensure existing functionality and recommend corrective action where necessary using Selenium WebDriver and TestNG assertions.
+  Involved in Front-End Testing using Selenium with Java and Eclipse as an IDE.
+  Involved in re-factoring the existing components to meet the current application requirements.
+  Executed Manual Test Cases, and reports and tracked the defects till the closure using Bugzilla.
+
+
+
+EDUCATION
+  * September 2009 – June 2013
+    Institute of Philology and Intercultural Communication, Volgograd, Russia Bachelor
+
+    Study Area: LINGUISTICS &amp; LITERATURE 
+Subject: Second Foreign Language (English)
+
+
