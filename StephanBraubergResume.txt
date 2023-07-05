@@ -17,7 +17,7 @@ PERSONAL INFORMATION
 
 SOCIAL PROFILES
   * GitHub: https://github.com/sbrauberg
-  * LinkedIn: somewebsite
+  * LinkedIn: https://www.linkedin.com/in/stephan-brauberg-24516b282/
 
 SKILLS
   AWS Cloud Services
