@@ -1,7 +1,9 @@
 #!/bin/bash
 
 # Define the resume PDF location
-resume="Stephan Brauberg - SDET II.pdf"
+resume="StephanBraubergResume.pdf"
+cell="(717) 538-0210"
+email="brauberg.stephan@gmail.com"
 
 # Greet the user
 echo "Hello, user! Welcome."
@@ -23,7 +25,7 @@ do
                 do
                     case $satisfaction in
                         "Yes")
-                            echo "Oh nice! Please reach out to me to schedule an interview!"
+                            echo "Oh nice! Please reach out to me at "$cell" or "$email" to schedule an interview!"
                             break
                             ;;
                         "No")
